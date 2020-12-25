@@ -1,0 +1,2 @@
+# buat
+crud buat laravel
